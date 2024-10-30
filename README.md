@@ -6,7 +6,7 @@ I'm a passionate developer with a love for creating innovative solutions and exp
 🔍 **Interests:**
 - 🚀 Exploring the latest in tech and software development
 - 🎨 Creative design and user experience
-- 🤖 Artificial Intelligence and Machine Learning
+- 🤖 Cyber Security And Vulnerabilites
 - 🌐 Open-source contributions and community engagement
 
 📚 **Currently Learning:**
